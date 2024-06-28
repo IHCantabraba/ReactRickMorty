@@ -1,7 +1,9 @@
 .rotate-180 {
   transform: rotate(180deg);
 }
-
+img {
+  transform: all 0.5s;
+}
 .char-btn {
   opacity: 0%;
   width: 100%;
