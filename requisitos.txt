@@ -1,0 +1,11 @@
+Para esta práctica realizaremos:
+1. una petición a la API de rick y morty, 
+2. guardaremos los datos de la api en un estado, 
+3. pintaremos los personajes de rick y morty con los atributos que queramos:
+  3.1 imágenes mínimo 
+4. y cada personaje 
+  4.1 será pintado en un componente específico al que le enviaremos los datos del personaje para recibirlos y pintarlos
+    4.1.1 Además, el componente hijo, deberá tener:
+      4.1.1.1 Un estado que controle que si le hacemos click a una imagen de un personaje esta rote 180 grados:
+      4.1.1.1.1 puede ser mediante un cambio de clase o 
+      4.1.1.1.2 cambio de estilos en línea apoyándose en el estado creado
